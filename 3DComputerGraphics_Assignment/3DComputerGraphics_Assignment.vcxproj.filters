@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7731b376-eb94-4778-8622-30af31ff7628}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures">
+      <UniqueIdentifier>{e39c71bd-2c57-4eeb-9e49-6cb4aec33a29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{2fcad069-bff1-439f-9a71-2453d6d1da0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Models">
+      <UniqueIdentifier>{fed4feb0-8d2d-4a76-bd56-8640eb4b1cc0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Setup">
+      <UniqueIdentifier>{6aa97e7e-2256-4239-9792-dd4b41a6dc66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Setup">
+      <UniqueIdentifier>{86275a05-4714-4e0d-aaef-53b97d202054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shaders">
+      <UniqueIdentifier>{55241231-7a85-49ea-854c-0e8fa2a31ebc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shaders">
+      <UniqueIdentifier>{c7346433-112b-43d6-b13e-bb73a50cb4f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Setup\Timing">
+      <UniqueIdentifier>{1d1028d6-e14b-49f1-8abe-69664e243e5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Setup\Timing">
+      <UniqueIdentifier>{34748e7a-79f0-4d40-8c55-0e6bb990ac86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders\Bump">
+      <UniqueIdentifier>{a8f2095c-8d94-4142-96ae-90ab8474ea57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders\Light">
+      <UniqueIdentifier>{99b4fa51-afa0-4a2c-95a4-1184193ce945}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders\Terrain">
+      <UniqueIdentifier>{df0f17b1-8924-4af7-812f-9c2478edd5b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders\Font">
+      <UniqueIdentifier>{24933c66-8dd9-406a-80c9-f178e90a96d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders\Texture">
+      <UniqueIdentifier>{72fe2748-f759-4c31-886b-2e62eb5a5300}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Heightmaps">
+      <UniqueIdentifier>{98710937-9a45-409b-9225-9cf665d4f78a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sky">
+      <UniqueIdentifier>{964495ce-4df9-41df-8aec-6f74ac6f32b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders\SkyDome">
+      <UniqueIdentifier>{6ae7ac6e-95c7-4441-888b-88d074b73826}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures\Bump">
+      <UniqueIdentifier>{1a082426-bdd4-46b8-bb58-136635f37b29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene Setup">
+      <UniqueIdentifier>{a27b429b-2ff8-4cf8-a575-3bbb06d20cd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scene Setup">
+      <UniqueIdentifier>{e3f61f73-8427-47e5-adb3-c7ee098c6a08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Handles">
+      <UniqueIdentifier>{4671c8fa-6aec-4ab8-8ff5-afdb817b9708}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Handles">
+      <UniqueIdentifier>{be2da2e1-eeae-4a52-9d10-ba7568e02ef6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scene Setup\Terrain">
+      <UniqueIdentifier>{5e96b408-d333-497e-b395-37517e7bdb6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Setup\Text">
+      <UniqueIdentifier>{816fde89-6792-4840-99ed-296932f0777d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Scene Setup\Lights">
+      <UniqueIdentifier>{9fd47a5c-94bc-41aa-a796-e9b2c369e74b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Setup\Camera">
+      <UniqueIdentifier>{fb8c9229-afe2-4cc9-84c4-be3de5716206}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Setup\Text">
+      <UniqueIdentifier>{f315573b-9399-439e-8fa4-fe73fd0e0139}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene Setup\Terrain">
+      <UniqueIdentifier>{9877be81-b028-4eb7-b1ad-2f3fac074c38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene Setup\Lights">
+      <UniqueIdentifier>{d788f5b9-419a-4563-aa54-7c7df30a4ad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Setup\Camera">
+      <UniqueIdentifier>{0294ce1a-bdcc-45bf-b688-b51830f17192}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Setup.h">
+      <Filter>Header Files\Setup</Filter>
+    </ClInclude>
+    <ClInclude Include="D3D.h">
+      <Filter>Header Files\Setup</Filter>
+    </ClInclude>
+    <ClInclude Include="LightShader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderManager.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureShader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="BumpMapShader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraHandle.h">
+      <Filter>Header Files\Setup\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Position.h">
+      <Filter>Header Files\Setup\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="TimerManagement.h">
+      <Filter>Header Files\Setup\Timing</Filter>
+    </ClInclude>
+    <ClInclude Include="FPS.h">
+      <Filter>Header Files\Setup\Timing</Filter>
+    </ClInclude>
+    <ClInclude Include="CPU.h">
+      <Filter>Header Files\Setup\Timing</Filter>
+    </ClInclude>
+    <ClInclude Include="FontHandle.h">
+      <Filter>Header Files\Setup\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="FontShader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainShader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="TextHandle.h">
+      <Filter>Header Files\Setup\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="ApplicationSetup.h">
+      <Filter>Header Files\Scene Setup</Filter>
+    </ClInclude>
+    <ClInclude Include="LightSettings.h">
+      <Filter>Header Files\Scene Setup\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>Header Files\Scene Setup\Lights</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyDomeShader.h">
+      <Filter>Header Files\Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainHandle.h">
+      <Filter>Header Files\Scene Setup\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>Header Files\Scene Setup\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Header Files\Setup</Filter>
+    </ClInclude>
+    <ClInclude Include="SkyDome.h">
+      <Filter>Header Files\Scene Setup\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="Frustum.h">
+      <Filter>Header Files\Scene Setup\Terrain</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureHandle.h">
+      <Filter>Header Files\Handles</Filter>
+    </ClInclude>
+    <ClInclude Include="BumpModelHandle.h">
+      <Filter>Header Files\Handles</Filter>
+    </ClInclude>
+    <ClInclude Include="ModelHandle.h">
+      <Filter>Header Files\Handles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RockTexture.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="cube.txt">
+      <Filter>Resource Files\Models</Filter>
+    </None>
+    <None Include="BumpMap.vs">
+      <Filter>Resource Files\Shaders\Bump</Filter>
+    </None>
+    <None Include="BumpMap.ps">
+      <Filter>Resource Files\Shaders\Bump</Filter>
+    </None>
+    <None Include="Light.vs">
+      <Filter>Resource Files\Shaders\Light</Filter>
+    </None>
+    <None Include="Light.ps">
+      <Filter>Resource Files\Shaders\Light</Filter>
+    </None>
+    <None Include="Terrain.vs">
+      <Filter>Resource Files\Shaders\Terrain</Filter>
+    </None>
+    <None Include="Terrain.ps">
+      <Filter>Resource Files\Shaders\Terrain</Filter>
+    </None>
+    <None Include="Font.vs">
+      <Filter>Resource Files\Shaders\Font</Filter>
+    </None>
+    <None Include="Font.ps">
+      <Filter>Resource Files\Shaders\Font</Filter>
+    </None>
+    <None Include="Texture.vs">
+      <Filter>Resource Files\Shaders\Texture</Filter>
+    </None>
+    <None Include="Texture.ps">
+      <Filter>Resource Files\Shaders\Texture</Filter>
+    </None>
+    <None Include="fontdata.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="heightmap01.bmp">
+      <Filter>Resource Files\Heightmaps</Filter>
+    </None>
+    <None Include="font.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="grass.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="skydome.txt">
+      <Filter>Resource Files\Sky</Filter>
+    </None>
+    <None Include="SkyDome.vs">
+      <Filter>Resource Files\Shaders\SkyDome</Filter>
+    </None>
+    <None Include="SkyDome.ps">
+      <Filter>Resource Files\Shaders\SkyDome</Filter>
+    </None>
+    <None Include="stone.dds">
+      <Filter>Resource Files\Textures\Bump</Filter>
+    </None>
+    <None Include="normal.dds">
+      <Filter>Resource Files\Textures\Bump</Filter>
+    </None>
+    <None Include="square.txt">
+      <Filter>Resource Files\Models</Filter>
+    </None>
+    <None Include="dirt01.dds">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="heightmap05.bmp">
+      <Filter>Resource Files\Heightmaps</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Setup.cpp">
+      <Filter>Source Files\Setup</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\Setup</Filter>
+    </ClCompile>
+    <ClCompile Include="D3D.cpp">
+      <Filter>Source Files\Setup</Filter>
+    </ClCompile>
+    <ClCompile Include="LightShader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderManager.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureShader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="BumpMapShader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraHandle.cpp">
+      <Filter>Source Files\Setup\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Position.cpp">
+      <Filter>Source Files\Setup\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="CPU.cpp">
+      <Filter>Source Files\Setup\Timing</Filter>
+    </ClCompile>
+    <ClCompile Include="FontHandle.cpp">
+      <Filter>Source Files\Setup\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="FontShader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="FPS.cpp">
+      <Filter>Source Files\Setup\Timing</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainShader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="TextHandle.cpp">
+      <Filter>Source Files\Setup\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="TimerManagement.cpp">
+      <Filter>Source Files\Setup\Timing</Filter>
+    </ClCompile>
+    <ClCompile Include="ApplicationSetup.cpp">
+      <Filter>Source Files\Scene Setup</Filter>
+    </ClCompile>
+    <ClCompile Include="LightSettings.cpp">
+      <Filter>Source Files\Scene Setup\Lights</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyDomeShader.cpp">
+      <Filter>Source Files\Shaders</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files\Setup</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureHandle.cpp">
+      <Filter>Source Files\Handles</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainHandle.cpp">
+      <Filter>Source Files\Handles</Filter>
+    </ClCompile>
+    <ClCompile Include="ModelHandle.cpp">
+      <Filter>Source Files\Handles</Filter>
+    </ClCompile>
+    <ClCompile Include="BumpModelHandle.cpp">
+      <Filter>Source Files\Handles</Filter>
+    </ClCompile>
+    <ClCompile Include="SkyDome.cpp">
+      <Filter>Source Files\Scene Setup\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="Frustum.cpp">
+      <Filter>Source Files\Scene Setup\Terrain</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>Source Files\Scene Setup\Terrain</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

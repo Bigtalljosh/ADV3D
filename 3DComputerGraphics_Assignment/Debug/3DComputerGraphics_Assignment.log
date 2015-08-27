@@ -1,0 +1,20 @@
+﻿Build started 25/01/2014 00:40:16.
+     1>Project "X:\University\Year 3\ADV3D\Final\3DComputerGraphics_Assignment\3DComputerGraphics_Assignment.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\AP3DG.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\AP3DG.unsuccessfulbuild".
+         Touching "Debug\AP3DG.lastbuildstate".
+     1>Done Building Project "X:\University\Year 3\ADV3D\Final\3DComputerGraphics_Assignment\3DComputerGraphics_Assignment.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.23
